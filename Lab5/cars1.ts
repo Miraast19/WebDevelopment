@@ -18,7 +18,7 @@ export const categories = [
 export const cars: any[] = [
     {
         id: 1,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102580348>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102580348>",
         city: 'Нур-Султан',
         kuz: 'Внедорожник',
         name:'Lexus',
@@ -36,7 +36,7 @@ export const cars: any[] = [
     },
     {
         id: 2,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102189627>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102189627>",
         city: 'Шымкент',
         kuz: 'Внедорожник',
         name:'Land Rover',
@@ -54,7 +54,7 @@ export const cars: any[] = [
     },   
     {
         id: 3,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102826459>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102826459>",
         city: 'Шымкент',
         kuz: 'Седан',
         name:'Lexus',
@@ -73,7 +73,7 @@ export const cars: any[] = [
     } ,
     {
         id: 4,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102310820>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102310820>",
         city: 'Шымкент',
         kuz: 'Седан',
         name:'Toyota',
@@ -92,7 +92,7 @@ export const cars: any[] = [
     } ,
     {
         id: 5,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/99718564>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/99718564>",
         city: 'Алматы',
         kuz: 'Внедорожник',
         name:'Infiniti',
@@ -113,7 +113,7 @@ export const cars: any[] = [
   export const moto: any[] = [
     {
         id: 6,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/96493827>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/96493827>",
         city: 'Экибастуз',
         kuz: 'Мотоцикл',
         name:'BMW',
@@ -131,7 +131,7 @@ export const cars: any[] = [
     },
     {
         id: 7,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102420248>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102420248>",
         city: 'Шымкент',
         kuz: 'Мотоцикл',
         name:'R1',
@@ -149,7 +149,7 @@ export const cars: any[] = [
     },   
     {
         id: 8,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/43971683>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/43971683>",
         city: 'Караганда',
         kuz: 'Мотоцикл',
         name:'Harley-Davidson',
@@ -168,7 +168,7 @@ export const cars: any[] = [
     } ,
     {
         id: 9,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102809197>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102809197>",
         city: 'Алматы',
         kuz: 'Мотоцикл',
         name:'Suzuki',
@@ -187,7 +187,7 @@ export const cars: any[] = [
     } ,
     {
         id: 10,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/100876492>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/100876492>",
         city: 'Алматы',
         kuz: 'Мотоцикл',
         name:'Honda',
@@ -207,7 +207,7 @@ export const cars: any[] = [
   export const All: any[] = [
     {
         id: 1,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102580348>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102580348>",
         city: 'Нур-Султан',
         kuz: 'Внедорожник',
         name:'Lexus',
@@ -225,7 +225,7 @@ export const cars: any[] = [
     },
     {
         id: 2,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102189627>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102189627>",
         city: 'Шымкент',
         kuz: 'Внедорожник',
         name:'Land Rover',
@@ -243,7 +243,7 @@ export const cars: any[] = [
     },   
     {
         id: 3,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102826459>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102826459>",
         city: 'Шымкент',
         kuz: 'Седан',
         name:'Lexus',
@@ -262,7 +262,7 @@ export const cars: any[] = [
     } ,
     {
         id: 4,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102310820>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102310820>",
         city: 'Шымкент',
         kuz: 'Седан',
         name:'Toyota',
@@ -281,7 +281,7 @@ export const cars: any[] = [
     } ,
     {
         id: 5,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/99718564>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/99718564>",
         city: 'Алматы',
         kuz: 'Внедорожник',
         name:'Infiniti',
@@ -300,7 +300,7 @@ export const cars: any[] = [
     } ,
     {
         id: 6,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/96493827>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/96493827>",
         city: 'Экибастуз',
         kuz: 'Мотоцикл',
         name:'BMW',
@@ -318,7 +318,7 @@ export const cars: any[] = [
     },
     {
         id: 7,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102420248>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102420248>",
         city: 'Шымкент',
         kuz: 'Мотоцикл',
         name:'R1',
@@ -336,7 +336,7 @@ export const cars: any[] = [
     },   
     {
         id: 8,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/43971683>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/43971683>",
         city: 'Караганда',
         kuz: 'Мотоцикл',
         name:'Harley-Davidson',
@@ -355,7 +355,7 @@ export const cars: any[] = [
     } ,
     {
         id: 9,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102809197>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102809197>",
         city: 'Алматы',
         kuz: 'Мотоцикл',
         name:'Suzuki',
@@ -374,7 +374,7 @@ export const cars: any[] = [
     } ,
     {
         id: 10,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/100876492>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/100876492>",
         city: 'Алматы',
         kuz: 'Мотоцикл',
         name:'Honda',
@@ -392,7 +392,7 @@ export const cars: any[] = [
     } ,
     {
         id: 11,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/101136084>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/101136084>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'Yamaha',
@@ -406,7 +406,7 @@ export const cars: any[] = [
     },
     {
         id: 12,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/92711274>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/92711274>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'VX Cruiser',
@@ -420,7 +420,7 @@ export const cars: any[] = [
     },
     {
         id: 13,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102296350>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102296350>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'Yamaha',
@@ -434,7 +434,7 @@ export const cars: any[] = [
     },
     {
         id: 14,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/85691886>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/85691886>",
         city: 'Усть-Каменогорск',
         kuz: 'катер',
         name:'Yamaha',
@@ -448,7 +448,7 @@ export const cars: any[] = [
     },
     {
         id: 15,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/98392889>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/98392889>",
         city: 'Алматы',
         kuz: 'катер',
         name:'Yamaha',
@@ -464,7 +464,7 @@ export const cars: any[] = [
   export const voda: any[] = [
     {
         id: 11,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/101136084>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/101136084>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'Yamaha',
@@ -478,7 +478,7 @@ export const cars: any[] = [
     },
     {
         id: 12,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/92711274>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/92711274>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'VX Cruiser',
@@ -492,7 +492,7 @@ export const cars: any[] = [
     },
     {
         id: 13,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102296350>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/102296350>",
         city: 'Алматы',
         kuz: 'гидроцикл',
         name:'Yamaha',
@@ -506,7 +506,7 @@ export const cars: any[] = [
     },
     {
         id: 14,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/85691886>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/85691886>",
         city: 'Усть-Каменогорск',
         kuz: 'катер',
         name:'Yamaha',
@@ -520,7 +520,7 @@ export const cars: any[] = [
     },
     {
         id: 15,
-        Anes: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/98392889>",
+        Miras: "http://web.whatsapp.com/send?text=<https://kolesa.kz/a/show/98392889>",
         city: 'Алматы',
         kuz: 'катер',
         name:'Yamaha',
